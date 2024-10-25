@@ -1,3 +1,9 @@
+# 25 October 2024
+
+- Silenced some logspams
+- Explicitly disable GL comp backpressure
+- Misc changes and optimization
+
 # 25 September 2024
 
 - Included Dolby Vision
