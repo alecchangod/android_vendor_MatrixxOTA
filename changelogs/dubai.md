@@ -1,11 +1,16 @@
-# 22-September-2024
+# 31-October-2024
 - Android 14 EOL
+- Updated Motorola Dolby blobs
+- Synced with latest source v10.9.0
+- Latest September SP
+- Other sources changes/fixes
+
+# 22-September-2024
 - Synced with latest source v10.8.1
 - Latest September SP
 - Other sources changes/fixes
 
 # 15-September-2024
-- Android 14 EOL
 - Improved network performance
 - Synced with latest source v10.8.0
 - Latest September SP
