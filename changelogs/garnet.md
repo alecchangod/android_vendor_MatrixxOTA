@@ -1,3 +1,10 @@
+# Changelog 2 November 2024:
+
+- Synced sources 10.9.0->10.9.1
+- Updated FW to 1.0.15
+- Added Viper4FX
+- Minor tweaks
+
 # Changelog 18 October 2024:
 
 - Synced sources 10.8.1->10.9.0
