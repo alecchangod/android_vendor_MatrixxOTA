@@ -1,3 +1,10 @@
+# Matrixx v-10.9.1 Changelog
+- Updated PixelPropsUtils FP
+- Added vibration when using physical camera button gesture
+- Allow to hide carrier name on lockscreen
+- Fixed Statusbar padding issue
+- Update setting limits for pulse solid renderer
+
 # Matrixx v-10.9.0 Changelog
 - Bump up release version to 10.9.0
 - Merged October 2024 security patch
