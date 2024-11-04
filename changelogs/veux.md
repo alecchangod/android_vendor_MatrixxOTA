@@ -1,3 +1,7 @@
+# 04-NOV-2024:
+- Synced with latest source v10.9.1
+- Update blobs from V816.0.9.0.TKCMIXM
+
 # 21-OCT-2024:
 - Synced with latest source v10.9.0
 - Disabled turbulence noise after clicking the play button on the quick settings media player.
