@@ -1,8 +1,18 @@
+# 08-November-2024
+- Android 14 EOL
+- Updated dubai blobs from Android 14 stock
+- Status bar proportionally adjusted
+- Fixed sudden loss of coverage in some devices
+- Dropped Moto Cam and its dependencies
+- Synced with latest source v10.9.1
+- Using October SP
+- Other sources changes/fixes
+
 # 31-October-2024
 - Android 14 EOL
 - Updated Motorola Dolby blobs
 - Synced with latest source v10.9.0
-- Latest September SP
+- Latest October SP
 - Other sources changes/fixes
 
 # 22-September-2024
