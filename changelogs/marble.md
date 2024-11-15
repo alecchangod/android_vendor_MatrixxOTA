@@ -1,3 +1,7 @@
+# 15-Novmber-2024
+- switch to old display drivers
+- any recovery can be used
+
 # 23-October-2024
 - only use orange fox recovery using twrp will soft brick
 - dirty flashable on 10.8.0
