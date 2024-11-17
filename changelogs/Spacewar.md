@@ -1,3 +1,13 @@
+# Changelog 17 November 2024:
+- Nox Cam included
+- Increase brightness
+- Increase sound volume
+- Improve system stability
+- Misc behind the scene improvements
+- Halogen kernel included
+- KSU included by default
+- Firmware included
+
 # Changelog 22 September 2024:
 - New Nothing Cam included
 - Improved system stability
