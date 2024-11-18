@@ -5,12 +5,12 @@
         "oem": "Samsung",
         "device": "f62",
         "device_name": "Samsung Galaxy F62",
-        "filename": "Matrixx-v10.7.2-Official-f62-Gapps-20240823.zip",
-        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/f62/Matrixx-v10.7.2-Official-f62-Gapps-20240823.zip/download",
-        "timestamp": 1724440034,
-        "md5": "157d83d7c4111cfa3f3dc980fb0fb08f",
-        "size": 1660311448,
-        "version": "v10.7.2"
+        "filename": "Matrixx-v10.9.1-Official-f62-Gapps-20241114.zip",
+        "download": "https://sourceforge.net/projects/projectmatrixx/files/Android-14/f62/Matrixx-v10.9.1-Official-f62-Gapps-20241114.zip/download",
+        "timestamp": 1731637657,
+        "md5": "3226fab1e4e5440c04cca4f96dcb1285",
+        "size": 1655850113,
+        "version": "v10.9.1"
     }
   ]
 }
