@@ -1,3 +1,8 @@
+# 21-Nov-2024
+- Upstreamed to latest 10.9.1 Matrixx sources
+- Upstreamed to latest n0kernel sources
+- Misc fixes
+
 # 22-Oct-2024
 - Upstreamed to latest 10.9.0 Matrixx sources
 - Upstreamed to latest n0kernel sources
