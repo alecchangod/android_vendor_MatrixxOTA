@@ -1,3 +1,6 @@
+# 22 November 2024
+- Misc changes and optimization
+
 # 25 October 2024
 
 - Silenced some logspams
