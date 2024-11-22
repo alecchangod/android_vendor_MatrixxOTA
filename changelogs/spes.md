@@ -1,3 +1,9 @@
+# Changelog 22 November 2024:
+- Use common libqti-perfd-client and power-libperfmgr
+- Switch to AIDL USB HAL
+- Disable kernel MTE
+- Set default swappines to 100 
+
 # Changelog 21 October 2024:
 - Fixed sensors not working 
 - Add and increase 5 GHz network signal tolerance
