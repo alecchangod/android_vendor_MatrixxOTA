@@ -1,3 +1,10 @@
+# Changelog 2 December 2024:
+
+- Updated FW to 1.0.17
+- ReAdded Dolby Atmos
+- Reworked trees
+- Using Shorekeeper v2 (KSU)
+
 # Changelog 2 November 2024:
 
 - Synced sources 10.9.0->10.9.1
