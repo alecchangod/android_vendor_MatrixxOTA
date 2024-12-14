@@ -1,3 +1,8 @@
+# 14-December-2024
+- Added missing blutooth, camera and vibrator blobs
+- Improved display density mapping
+- Kernel upstream to 5.4.286
+
 # 27-September-2024
 - Fixed camera night mode & Long exposure crash
 - Fixed Play integrity not passing out of the box
