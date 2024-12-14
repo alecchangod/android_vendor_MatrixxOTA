@@ -1,3 +1,8 @@
+# Changelog 14 December 2024:
+
+- Synced sources 10.9.1->10.10.0
+- Minor tweaks
+
 # Changelog 2 December 2024:
 
 - Updated FW to 1.0.17
