@@ -1,5 +1,11 @@
+# 14-December-2024
+- Disabled some depuration features for better battery perf
+- Improved kernel configs
+- Synced with latest source v10.10.0
+- Using December SP
+- Other sources changes/fixes 
+
 # 08-November-2024
-- Android 14 EOL
 - Updated dubai blobs from Android 14 stock
 - Status bar proportionally adjusted
 - Fixed sudden loss of coverage in some devices
@@ -9,7 +15,6 @@
 - Other sources changes/fixes
 
 # 31-October-2024
-- Android 14 EOL
 - Updated Motorola Dolby blobs
 - Synced with latest source v10.9.0
 - Latest October SP
