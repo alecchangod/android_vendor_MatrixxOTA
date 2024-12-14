@@ -1,3 +1,14 @@
+# Matrixx v-10.10.0 Changelog
+- Merged December 2024 security patch
+- Added proper toggle for smartspace
+- Allow upto 6 landscape QS columns for a11 style
+- Fixed colored icons going blank
+- Fixed firewall status bar indicator
+- Fixed side scrolling issues with vertical/A11 tile layout
+- Hide status bar logo when headsup is visible
+- UdfpsAnimation: Address memory leaks
+- System optimizations and small fixes here & there
+
 # Matrixx v-10.9.1 Changelog
 - Updated PixelPropsUtils FP
 - Added vibration when using physical camera button gesture
