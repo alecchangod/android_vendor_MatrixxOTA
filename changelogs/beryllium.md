@@ -1,3 +1,11 @@
+# Changelog 15 December 2024
+- Update to v10.10.0
+- Remove quotes in TARGET_RECOVERY_PIXEL_FORMAT
+- Declare WFD lib as symlink during extraction
+- Do not override ro.opengles.version
+- Drop Google Contacts
+- If Device is not certified: use pifs or modules
+
 # Changelog 05 November 2024
 - Update to v10.9.1
 - Misc Fixes
